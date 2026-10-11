@@ -1,0 +1,11 @@
+target/
+
+*.class
+
+.idea/
+.vscode/
+
+*.log
+PRD.txt
+IMPLEMENTATION.md
+WORKLOG.md
